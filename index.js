@@ -90,9 +90,9 @@ Snake.prototype.check = function() {
 
   if (this.firstBox.iniX < 0 || this.firstBox.iniY < 0 || this.firstBox.iniX > width || this.firstBox.iniY > height) {
     return false;
-  } /*else if (!this.checkValidNewBugPos(this.firstBox.iniX, this.firstBox.iniY, 1)) {
+  }else if (!this.checkValidNewBugPos(this.firstBox.iniX, this.firstBox.iniY, 1)) {
     return false;
-  }*/
+  }
   return true;
 };
 
