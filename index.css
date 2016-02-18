@@ -104,6 +104,7 @@ p small{
 .adsbygoogle > ins > ins{
 	width:1200px !important;
 	margin: 0 auto !important;
+	border:#DDDDDD 1px solid !important;
 }
 
 .adsbygoogle > ins > ins > iframe{
