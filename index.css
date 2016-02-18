@@ -97,7 +97,7 @@ p small{
 }
 
 
-.adsbygoogle > ins{
+.adsbygoogle > ins, .adsbygoogle > ins > ins {
 	width:100% !important;
 }
 
