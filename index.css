@@ -97,8 +97,13 @@ p small{
 }
 
 
-.adsbygoogle > ins, .adsbygoogle > ins > ins {
+.adsbygoogle > ins {
 	width:100% !important;
+}
+
+.adsbygoogle > ins > ins{
+	width:1200px;
+	margin: 0 auto;
 }
 
 .adsbygoogle > ins > ins > iframe{
