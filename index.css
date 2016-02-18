@@ -97,6 +97,16 @@ p small{
 }
 
 
+.adsbygoogle > ins{
+	width:100% !important;
+}
+
+.adsbygoogle > ins > ins > iframe{
+	width: 100% !important;
+}
+
+
+
 @keyframes blink {
     from { box-shadow: 0px 0px 62px 41px #14191D;}
     to { box-shadow: 0px 0px 62px 41px #C6FF9B;}
